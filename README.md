@@ -6,5 +6,5 @@ There is two versions of this app - one is the server and other is the player.
 
 
 Tools used :
-Swift
+Swift,
 Firebase.
