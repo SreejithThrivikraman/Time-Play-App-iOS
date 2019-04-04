@@ -12,6 +12,7 @@ Firebase.
 Game Initial Screens :
 
 ![Screen Shot 2019-04-04 at 1 22 56 AM](https://user-images.githubusercontent.com/25814205/55531737-59d9fa80-5679-11e9-840f-7eccc25bd119.png)
+
 ![Screen Shot 2019-04-04 at 1 23 44 AM](https://user-images.githubusercontent.com/25814205/55531738-5a729100-5679-11e9-87b8-b4638d1faa48.png)
 
 1. ScreenShots:
