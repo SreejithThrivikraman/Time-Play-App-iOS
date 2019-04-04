@@ -17,6 +17,7 @@ Game Initial Screens :
 1. ScreenShots:
 
 Player and Server
+
 ![Screen Shot 2019-04-04 at 1 26 38 AM](https://user-images.githubusercontent.com/25814205/55531548-dae4c200-5678-11e9-8e57-80b24712ace7.png)
 
 ![Screen Shot 2019-04-04 at 1 26 19 AM](https://user-images.githubusercontent.com/25814205/55531549-dae4c200-5678-11e9-92ee-5e43211b3405.png)
@@ -26,7 +27,9 @@ Player and Server
 ![Screen Shot 2019-04-04 at 1 24 29 AM](https://user-images.githubusercontent.com/25814205/55531617-17b0b900-5679-11e9-978a-ad2e1bf7f24d.png)
 
 3. Leaderboard
+
 ![Screen Shot 2019-04-04 at 1 24 36 AM](https://user-images.githubusercontent.com/25814205/55531625-1d0e0380-5679-11e9-8298-33b4931d973e.png)
 
 4. Player Login
+
 ![Screen Shot 2019-04-04 at 1 24 01 AM](https://user-images.githubusercontent.com/25814205/55531701-40d14980-5679-11e9-970e-618922a5fa95.png)
